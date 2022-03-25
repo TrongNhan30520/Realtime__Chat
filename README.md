@@ -3,4 +3,4 @@
 This is a Realtime Chat Application. I're going to use ReactJS on the front end, NodeJS on the back end and the entire chat is powered with Getstram.io (API)
 
 Setup:
-  - run npm install && npm start for both client and server side to start the development server
+  - run `npm install && npm start` for both client and server side to start the development server
